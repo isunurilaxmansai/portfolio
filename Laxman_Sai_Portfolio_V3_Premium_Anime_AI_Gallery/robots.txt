@@ -1,0 +1,5 @@
+# Search engines and AI answer engines are all welcome to read this portfolio.
+User-agent: *
+Allow: /
+
+Sitemap: https://laxmansai.pages.dev/sitemap.xml
